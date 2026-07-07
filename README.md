@@ -33,7 +33,8 @@ O design do app foi prototipado no Figma, simulando a experiência do usuário f
 - Desenvolver o front-end funcional do app
 - Adicionar autenticação de usuários e múltiplas fazendas
 
-## 👤 Autor
+## 👤 Equipe
 
-Ivanildo [seu sobrenome] — Estudante de Análise e Desenvolvimento de Sistemas
-[Link do LinkedIn]
+Isandra Micaelle | Estudante de Análise e Desenvolvimento de Sistemas
+Ivanildo José | Estudante de Análise e Desenvolvimento de Sistemas
+https://www.linkedin.com/in/ivanildo-s-663377353/
