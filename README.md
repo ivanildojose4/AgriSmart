@@ -25,8 +25,7 @@ O Arduino coleta dados de sensores (umidade do solo, temperatura, etc.) e envia 
 
 O design do app foi prototipado no Figma, simulando a experiência do usuário final:
 
-![Tela inicial do app](prints/tela-inicial.png)
-![Umidade do solo](prints/umidade-solo.png)
+![Protótipo do app AgriSmart](maqueteapp.jpeg)
 
 ## 🚀 Próximos passos
 
