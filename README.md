@@ -36,5 +36,6 @@ O design do app foi prototipado no Figma, simulando a experiência do usuário f
 ## 👤 Equipe
 
 Isandra Micaelle | Estudante de Análise e Desenvolvimento de Sistemas
+
 Ivanildo José | Estudante de Análise e Desenvolvimento de Sistemas
 https://www.linkedin.com/in/ivanildo-s-663377353/
